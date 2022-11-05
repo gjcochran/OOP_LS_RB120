@@ -1,0 +1,24 @@
+#### PEDAC
+https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f
+
+Objective -- Process the Problem
+  Step -- Understand the Problem
+    Description -- <ul>
+                    <li>Identify expected input and output</li>
+                    <li>Make the requirements explicit</li>
+                    <li>Identify rules</li>
+                    <li>Mental model of the problem (optional)</li>
+                    </ul> 
+
+  Step -- Examples/Test Case
+    Description -- Validate understanding of the problem
+
+  Step -- Data Structure
+    Description -- How we represent data that we will work with when converting the input to output.
+
+  Step -- Algorithm
+    Description -- Steps for converting input to output
+
+Objective -- Code with Intent
+  Step -- Code
+    Description -- Implementation of Algorithm
