@@ -484,3 +484,7 @@ end
 
 game = TwentyOneGame.new
 game.play
+
+# only thing that could potentially still add, 
+#   which i can think, 
+# is a way to deposit more money if run out so that can continue playing
